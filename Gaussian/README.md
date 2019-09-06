@@ -48,7 +48,8 @@ To do this first of all we can define fragments in a text file
 ### Example
 
 We made a poly-peptide (Gly-Ala-Gly)
-![fragmentation](test12.png)
+![fragmentation](test12.png)  
+
 and as is shown in figure there are 3 distict fragment in this molecule.
 
 Now we want to calculate contribution of each group in the frontier orbitals,
